@@ -1,0 +1,45 @@
+#c1{
+    font-size: xxx-large;
+    background: darkslategray;
+    font-family:century gothic;
+    background-image:url(https://blog.hubspot.com/hubfs/Google%20Drive%20Integration/How%20to%20Start%20Coding%20The%20Ultimate%20Guide%20for%20Beginner%20Programmers.jpeg);
+    background-blend-mode: multiply;
+  }
+  #img1, #img2, #img3{
+    width:100px;
+    height:100px;
+    line-height:px;
+  }
+  td{
+    padding:5px;
+    border-bottom:1px solid ;
+  }
+  table{
+    border-collapse: collapse;
+    background: 	darkslategray;
+    margin: auto;
+    color: white;
+    background-image:url(https://blog.hubspot.com/hubfs/Google%20Drive%20Integration/How%20to%20Start%20Coding%20The%20Ultimate%20Guide%20for%20Beginner%20Programmers.jpeg);
+    background-blend-mode:multiply;
+    
+    
+  }
+  #html,#css,#js{
+    font-size: xxx-large;
+    line-height:0.1%;
+    font-family: century gothic;
+  }
+  #p1, #p2, #p3{
+    line-height:0.1%;
+    font-size: large;
+    font-family: century gothic;
+  }
+  #l1,#l2, #l3{
+    font-size: x-large;
+    line-height:2px;
+    font-family: arial
+  }
+  ul{
+    font-family: calibri;
+    font-size: large;
+  }
